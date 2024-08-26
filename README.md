@@ -9,16 +9,28 @@ If you would like to change the data, weights, output path or other settings,
 you can find them in ```config.py```.
 
 ## 2. Setting Data's Root 
-You will get a .pkl file contain data's path by running ```python 001_make_Dataset.py```  
+You will get a .pkl file contain data's path by running
+```
+python 001_make_Dataset.py
+```  
 
 ## 3. Training
-Start training by running ```python 002_train_gmm.py```.
+Start training by running
+```
+python 002_train_gmm.py
+```
 
 ## 4. Testing  
-Start testing by running ```python 003_test.py```.
+Start testing by running 
+```
+python 003_test.py
+```
 
 ## 5. Evaluation
-```python 004_evaluation.py```  
+```
+python 004_evaluation.py
+```
+
 ```
 =======================
 SSIM score  :  0.7907
