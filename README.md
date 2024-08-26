@@ -28,7 +28,7 @@ FID score   : 12.7824
 ```  
 
 ## 6. Hardware
-The model architectures proposed in this study are implemented using the PyTorchDL framework, and training is conducted on hardware featuring an ```Intel® Core™ i7-12700``` CPU and ```Nvidia RTX 3060``` graphics processing unit (GPU).
+The model architectures proposed in this study are implemented using the PyTorchDL framework, and training is conducted on hardware featuring an Intel® Core™ i7-12700 CPU and Nvidia RTX 3060 12GB graphics processing unit (GPU).
 
 # References： 
 > * P. Li, Y. Xu, Y. Wei and Y. Yang, "Self-Correction for Human Parsing," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 44, no. 6, pp. 3260-3271, 2022.
