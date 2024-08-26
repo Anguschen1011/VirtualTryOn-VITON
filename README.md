@@ -9,19 +9,19 @@ If you would like to change the data, weights, output path or other settings,
 you can find them in ```config.py```.
 
 ## 2. Setting Data's Root 
-You will get a .pkl file contain data's path by running
+Get a .pkl file contain data's path 
 ```
 python 001_make_Dataset.py
 ```  
 
 ## 3. Training
-Start training by running
+Start training 
 ```
 python 002_train_gmm.py
 ```
 
 ## 4. Testing  
-Start testing by running 
+Start testing
 ```
 python 003_test.py
 ```
