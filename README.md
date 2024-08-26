@@ -21,9 +21,9 @@ Start testing by running ```python 003_test.py```.
 ```python 004_evaluation.py```  
 ```
 =======================
-SSIM score  :  0.8902
-LPIPS score :  0.1184
-FID score   : 11.5191
+SSIM score  :  0.7907
+LPIPS score :  0.2130
+FID score   : 12.7824
 =======================
 ```  
 
