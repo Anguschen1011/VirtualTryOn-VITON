@@ -20,7 +20,8 @@ Start training
 python 002_train_gmm.py
 ```
 
-## 4. Testing  
+## 4. Testing 
+Download pretrained weight : [[LINK]](https://drive.google.com/file/d/1RDFMggrEvwJ5xSO8UmyDEqfojSvUy2S1/view?usp=sharing)
 Start testing
 ```
 python 003_test.py
