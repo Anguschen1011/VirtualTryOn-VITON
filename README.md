@@ -44,6 +44,8 @@ FID score   : 12.7824
 The model architectures proposed in this study are implemented using the PyTorchDL framework, and training is conducted on hardware featuring an Intel® Core™ i7-12700 CPU and Nvidia RTX 3060 12GB graphics processing unit (GPU).
 
 # References： 
+> * 柯良頴, 夏至賢, 許良亦, 陳麒安, "Virtual Try-on Based on Composable Sequential Appearance Flow," ITAC, 2024.
+> * >[[Virtual Try-on Based on Composable Sequential Appearance Flow]](https://github.com/Anguschen1011/VirtualTryOn-VITON-V1)
 > * P. Li, Y. Xu, Y. Wei and Y. Yang, "Self-Correction for Human Parsing," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 44, no. 6, pp. 3260-3271, 2022.
 >[[Self Correction Human Parsing]](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing)  
 > * N. Ravi, et al., "Sam 2: Segment anything in images and videos," _ArXiv_, 2024.
