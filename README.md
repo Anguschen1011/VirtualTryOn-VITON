@@ -1,4 +1,9 @@
-# Virtual Try-On Using VITON Dataset
+# Virtual Try-On Using VITON Dataset  
+
+## Environments  
+```
+conda env create -f environment.yaml
+```
 
 ## 1. Data Preprocessing
 Due to flaws in the original method for generating 'agnostic', which stem from issues within the dataset itself, "Self Correction Human Parsing" [[Github]](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) was used to reprocess the human images for human parsing.  
