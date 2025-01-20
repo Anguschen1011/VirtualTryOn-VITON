@@ -3,6 +3,8 @@
 ## Environments  
 ```
 conda env create -f environment.yaml
+
+conda activate vton
 ```
 
 ## 1. Data Preprocessing
